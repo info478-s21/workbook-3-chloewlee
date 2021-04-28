@@ -75,6 +75,7 @@ ggplot(data_wide) +
 
 ggsave("charts/changeplot.png")
 
-# Change in life expectancy and HALE is very similar from 
-# looking at the difference in 1990 and 2016. 
+# Since the slope is postive and linear, the change in life expectancy and HALE 
+# is very similar analyzing the difference between the variables in 1990 and 2016. 
+
 
